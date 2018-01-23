@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.1" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="64" tileheight="64" infinite="0" nextobjectid="135">
+ <objectgroup name="solids">
+  <object id="30" x="384" y="640" width="64" height="64"/>
+  <object id="31" x="512" y="768" width="64" height="64"/>
+  <object id="46" x="704" y="576" width="64" height="64"/>
+  <object id="59" x="0" y="128" width="64" height="64"/>
+  <object id="60" x="64" y="128" width="64" height="64"/>
+  <object id="61" x="128" y="128" width="64" height="64"/>
+  <object id="63" x="192" y="256" width="64" height="64"/>
+  <object id="65" x="256" y="256" width="64" height="64"/>
+  <object id="66" x="320" y="256" width="64" height="64"/>
+  <object id="80" x="512" y="192" width="64" height="64"/>
+  <object id="81" x="576" y="192" width="64" height="64"/>
+  <object id="82" x="640" y="192" width="64" height="64"/>
+  <object id="83" x="896" y="64" width="64" height="64"/>
+  <object id="84" x="960" y="64" width="64" height="64"/>
+  <object id="87" x="1024" y="64" width="64" height="64"/>
+  <object id="91" x="1088" y="64" width="64" height="64"/>
+  <object id="92" x="1152" y="0" width="64" height="64"/>
+  <object id="93" x="1152" y="64" width="64" height="64"/>
+  <object id="94" x="1152" y="128" width="64" height="64"/>
+  <object id="95" x="1152" y="192" width="64" height="64"/>
+  <object id="96" x="1152" y="256" width="64" height="64"/>
+  <object id="97" x="1152" y="320" width="64" height="64"/>
+  <object id="98" x="1152" y="384" width="64" height="64"/>
+  <object id="99" x="1152" y="448" width="64" height="64"/>
+  <object id="100" x="1216" y="640" width="64" height="64"/>
+  <object id="101" x="1280" y="640" width="64" height="64"/>
+  <object id="102" x="1344" y="640" width="64" height="64"/>
+  <object id="104" x="1344" y="576" width="64" height="64"/>
+  <object id="105" x="1344" y="512" width="64" height="64"/>
+  <object id="106" x="1152" y="640" width="64" height="64"/>
+  <object id="107" x="1152" y="704" width="64" height="64"/>
+  <object id="108" x="1152" y="768" width="64" height="64"/>
+  <object id="109" x="1152" y="832" width="64" height="64"/>
+  <object id="110" x="1152" y="896" width="64" height="64"/>
+  <object id="111" x="896" y="768" width="64" height="64"/>
+  <object id="112" x="960" y="768" width="64" height="64"/>
+  <object id="113" x="704" y="896" width="64" height="64"/>
+  <object id="114" x="768" y="896" width="64" height="64"/>
+  <object id="116" x="576" y="448" width="64" height="64"/>
+  <object id="117" x="640" y="448" width="64" height="64"/>
+  <object id="119" x="640" y="512" width="64" height="64"/>
+  <object id="122" x="768" y="384" width="64" height="64"/>
+  <object id="123" x="832" y="384" width="64" height="64"/>
+  <object id="124" x="896" y="384" width="64" height="64"/>
+  <object id="125" x="896" y="448" width="64" height="64"/>
+  <object id="126" x="832" y="448" width="64" height="64"/>
+  <object id="127" x="768" y="448" width="64" height="64"/>
+  <object id="128" x="768" y="512" width="64" height="64"/>
+  <object id="129" x="832" y="512" width="64" height="64"/>
+  <object id="130" x="896" y="512" width="64" height="64"/>
+  <object id="132" x="960" y="448" width="64" height="64"/>
+  <object id="133" x="1024" y="448" width="64" height="64"/>
+  <object id="134" x="1088" y="448" width="64" height="64"/>
+ </objectgroup>
+</map>
